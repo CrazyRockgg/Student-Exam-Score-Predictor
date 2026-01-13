@@ -50,10 +50,10 @@ Predict the final exam score using regression techniques.
 ## 🔄 Machine Learning Workflow
 
 1. Load and explore the dataset
-2. Split data into features and target
+2. Split data into **features and target**
 3. Split into training and testing sets
 4. Train **Linear Regression** model
-5. Evaluate model performance using MAE.
+5. Evaluate model performance using **MAE**.
 6. Make predictions on new data
 
 ---
